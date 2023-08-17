@@ -1,3 +1,3 @@
 # Tensorflow_AI
 
-This repository aims to simplify and streamline the learning of Tensorflow to build Artificial Intelligence. Feel free to contribute, remember you are teaching a 5 year old.
+This repository exists to make learning Tensorflow for building Artificial Intelligence easier and smoother. Anyone can join in and share their knowledge, keeping in mind that the goal is to teach it in a way that a 5-year-old could understand.
